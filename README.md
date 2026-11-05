@@ -3,7 +3,7 @@
 ### Project overview:
 
 The OJT Management System is designed to manage and monitor the internship process of students. It provides a centralized platform where students, academic supervisors, company supervisors, administrators, and OJT coordinators can perform their respective responsibilities.
-
+https://github.com/swvenz/Project-OJT-RMA-System/blob/main/README.md
 
 # Prerequisites:
 - PostgreSQL database server
@@ -11,7 +11,7 @@ The OJT Management System is designed to manage and monitor the internship proce
 - A code editor or development environment
 - Git for repository management
   
-Installation steps:
+# Installation steps:
 1. Download or clone the project repository.
 2. Install the required application dependencies.
 3. Create a PostgreSQL database named ojt_managementdb.
