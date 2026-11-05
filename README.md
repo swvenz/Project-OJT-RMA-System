@@ -1,10 +1,11 @@
-OJT Management System
+# OJT Management System
 
-Project overview:
+### Project overview:
 
 The OJT Management System is designed to manage and monitor the internship process of students. It provides a centralized platform where students, academic supervisors, company supervisors, administrators, and OJT coordinators can perform their respective responsibilities.
 
-Prerequisites:
+
+# Prerequisites:
 - PostgreSQL database server
 - The selected programming language and its required environment
 - A code editor or development environment
