@@ -1,6 +1,10 @@
 # OJT Management System
-
-A desktop (Swing) application for managing On-the-Job Training: user accounts, student applications, requirements, placements, attendance and evaluations.
+### Overview
+A desktop (Swing) application for managing On-the-Job Training: user accounts, student applications, requirements, placements, attendance and evaluations. 
+The main purpose of the proposed OJT Management System is to eliminate the need for paper files and separate spreadsheet files by providing an organized database for OJT-related data storage. 
+This database will be utilized for the efficient management of student profiles, OJT applications, company assignments, attendance records, requirements, training hours, and evaluations. 
+By organizing this information in a database and enabling its easy access, update, and modification, the OJT management system will reduce human errors that are likely to occur when maintaining several documents. 
+In addition, it will offer a more convenient way of storing, retrieving, updating, and managing information about OJT students. 
 
 **Tech stack:** Java SE 17 · Apache Maven · PostgreSQL · JDBC · Visual Studio Code
 
