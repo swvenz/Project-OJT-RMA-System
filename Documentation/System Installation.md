@@ -131,3 +131,13 @@ Created automatically on first launch. Password for all: `password123` (change a
 | `permission denied` at startup | `DB_USER` must be an owner-level user, not a restricted `ojt_*` role |
 | Syntax errors running the SQL | Check for line-break artifacts if copied from PDF (e.g. `NOT NULLCHECK`, `IS NULLOR`, a stray `);`) |
 | `mvn` uses the wrong Java | Set `JAVA_HOME` to your JDK 17 installation |
+
+## Suggested test run:
+1. Coordinator adds a partner company (or use Acme Corp) and the admin creates a company supervisor for it.
+2. Student applies and submits all three requirements.
+3. Academic supervisor verifies them. This is the step that fails until fix 2 is applied.
+4. Coordinator approves and creates the placement.
+5. Student logs attendance and a supervisor verifies it.
+6. Company supervisor evaluates with a score of 75 or more.
+7. Academic supervisor marks the placement completed.
+
