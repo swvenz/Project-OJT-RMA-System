@@ -56,12 +56,7 @@ The system works as delivered. The points below came up during code review and a
 - Queries use prepared statements (no SQL injection from form input). Per-role data scoping (`scope()`) limits students and supervisors to their own placements.
 - Account creation is transactional (user and profile are created together or not at all).
 - Business rules in code: one active application per student, 12-hour daily cap, time-out after time-in, required hours and passing score before completion.
-  
-**Suggested test run:**
-1. Coordinator adds a partner company (or use Acme Corp) and the admin creates a company supervisor for it.
-2. Student applies and submits all three requirements.
-3. Academic supervisor verifies them. This is the step that fails until fix 2 is applied.
-4. Coordinator approves and creates the placement.
-5. Student logs attendance and a supervisor verifies it.
-6. Company supervisor evaluates with a score of 75 or more.
-7. Academic supervisor marks the placement completed.
+
+## 5. How to run it
+  - [System Installation](https://github.com/swvenz/Project-OJT-RMA-System/blob/b6a7ca66d1855250e47b573accc45b0cceddd6af/Documentation/System%20Installation.md)
+    
