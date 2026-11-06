@@ -16,4 +16,13 @@ This database will be utilized for the efficient management of student profiles,
 By organizing this information in a database and enabling its easy access, update, and modification, the OJT management system will reduce human errors that are likely to occur when maintaining several documents. 
 In addition, it will offer a more convenient way of storing, retrieving, updating, and managing information about OJT students. 
 
+### Scope:<br>
+- The system will cover the student & company information management, OJT applications & document tracking, OJT placement records, monitoring of attendance, student evaluation records, OJT statuses, and record viewing.
+- <b>Account management:</b> an administrator creates login accounts together with the matching role profile (student, academic supervisor, company supervisor) in one transaction, and activates or deactivates accounts.
+- <b>Applications:</b> students apply to partner companies; the OJT coordinator approves or rejects with a reason.
+- <b>Requirements:</b> students submit required documents; academic supervisors verify or reject them. Approval of an application is blocked until all mandatory requirements are verified.
+- <b>Placements:</b> approval creates a placement with assigned company and academic supervisors, dates, and required hours.
+- <b>Attendance:</b> students record time in and out; supervisors verify entries. Only verified hours count toward the required total.
+- <b>Evaluations:</b> company supervisors score interns. A placement is marked Completed only when verified hours reach the required hours and a passing evaluation exists.
+- <b>Audit log:</b> the administrator can view the latest audit records.
 
