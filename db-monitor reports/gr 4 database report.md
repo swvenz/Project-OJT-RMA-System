@@ -1,13 +1,9 @@
 # BrewPOS System — Database Administration, Monitoring, and Maintenance Report
 
-**Course / Section:** COMP 018 – Database Administration / BSIT 3-1  
+**Course / Section:** COMP 018 – Database Administration / BSIT 3-1
+<br>**Checked by:** Group 3  
 **Target System:** BrewPOS (Point-of-Sale System)  
 **Target RDBMS:** PostgreSQL 18.6 on x86_64-windows, compiled by msvc-19.44.35229, 64-bit  
-**Database Name:** `grp_brewposdb`  
-**Schema:** `public`  
-**Evaluator:** Database Administrator (DBA)  
-**Inspection Date:** November 10, 2026  
-**Scope of Audit:** Strictly confined to attached SQL Schema and database files (`schema.sql`, `01_create_tables.sql`, `03_verification_queries.sql`, `05_create_app_role.sql`, `06_align_existing_db.sql`) and the live `grp_brewposdb` PostgreSQL instance.
 
 ---
 
