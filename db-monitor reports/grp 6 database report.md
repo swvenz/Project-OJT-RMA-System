@@ -3,7 +3,7 @@
 **Course / Section:** COMP 018 – Database Administration / BSIT 3-1  
 **Checked by:** Group 3  
 **Target System:** HabalGo System (Group 6)
-**Target RDBMS:** PostgreSQL 18.6 on x86_64-windows, compiled by msvc-19.44.35229, 64-bit  
+<br>**Target RDBMS:** PostgreSQL 18.6 on x86_64-windows, compiled by msvc-19.44.35229, 64-bit  
 **Database Name:** `grp00_habalgodb` (Schema: `habalgo`)
 
 ---
