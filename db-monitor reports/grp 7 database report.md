@@ -2,7 +2,7 @@
 
 **Course / Section:** COMP 018 – Database Administration / BSIT 3-1  
 **Evaluator / Auditor:** Group 3
-**Target System:** CampusSafe (Group 7)  
+<br>**Target System:** CampusSafe (Group 7)  
 **Target RDBMS:** PostgreSQL 18.6 on x86_64-windows, compiled by msvc-19.44.35229, 64-bit *(Verified on PostgreSQL 14.24 and 18.6)*  
 **Database Name:** `grp07_campussafedb`  
 
